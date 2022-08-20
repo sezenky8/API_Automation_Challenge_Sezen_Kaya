@@ -1,0 +1,3 @@
+com\tradeMe\utilites\ApiUtils.class
+com\tradeMe\runners\Runners.class
+com\tradeMe\step_definitions\TradeMeStepDefinitions.class
